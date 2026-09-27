@@ -1,0 +1,333 @@
+{
+  "schema": "decibellog.session/v1",
+  "$schema": "https://decibellog.local/schema/session-v1.json",
+  "appVersion": "1.0.0-web",
+  "sdkVersion": "1.0.0",
+  "sessionId": "ses_veyebwi5",
+  "incidentId": "inc_0wxhqkde",
+  "levelsOnly": true,
+  "startedAt": {
+    "epochMs": 1790481168367,
+    "monotonicMs": 1790481168367,
+    "iso": "2026-09-26T22:52:48.367-05:00",
+    "timeZone": "America/Chicago"
+  },
+  "endedAt": {
+    "epochMs": 1790481169544,
+    "monotonicMs": 1790481169544,
+    "iso": "2026-09-26T22:52:49.544-05:00",
+    "timeZone": "America/Chicago"
+  },
+  "meta": {
+    "name": "Sample",
+    "address": "Unit 4",
+    "room": "bedroom",
+    "windows": "closed",
+    "direction": "adjacent",
+    "noiseType": "bass",
+    "note": "60 second generated demo, not a live recording"
+  },
+  "device": {
+    "installationIdSha256": "sample",
+    "userAgent": "",
+    "modelLabel": "browser-demo",
+    "sampleRate": 48000,
+    "calOffsetDb": 0,
+    "sourceLabel": "Demo · bass-heavy",
+    "sourceMode": "demo",
+    "demoKind": "bass",
+    "fftSize": 4096,
+    "inputDeviceId": null,
+    "autoTime": "unknown-browser-clock",
+    "clockNote": "Browser clock. DecibelLog cannot read Settings.Global.AUTO_TIME. If this device clock is set manually, timestamps follow that clock."
+  },
+  "location": null,
+  "summary": {
+    "durationSec": 1.177,
+    "laeq": -24.834,
+    "lceq": -12.926,
+    "lafMax": -24.82812828845962,
+    "lcfMax": -12.875008328197687,
+    "lasMax": -24.83348905642322,
+    "lcsMax": -12.919326446971509,
+    "lafMin": -25.819139655447998,
+    "lcfMin": -13.996384002370885,
+    "laPeak": -20.629278142144084,
+    "lcPeak": -8.076434839416208,
+    "lcMinusLa": 11.908,
+    "clippedRows": 0,
+    "octave": {
+      "a": [
+        {
+          "fc": 25,
+          "db": -42.476967819756624
+        },
+        {
+          "fc": 31.5,
+          "db": -27.966258924349354
+        },
+        {
+          "fc": 40,
+          "db": -27.966258924349354
+        },
+        {
+          "fc": 50,
+          "db": -9.109231970776854
+        },
+        {
+          "fc": 63,
+          "db": -6.482670428294163
+        },
+        {
+          "fc": 80,
+          "db": -37.957454646753945
+        },
+        {
+          "fc": 100,
+          "db": -47.5695289481889
+        },
+        {
+          "fc": 125,
+          "db": -59.869796636133074
+        },
+        {
+          "fc": 160,
+          "db": -70.50384636733705
+        },
+        {
+          "fc": 200,
+          "db": -77.54847495743465
+        },
+        {
+          "fc": 250,
+          "db": -84.7744476800286
+        },
+        {
+          "fc": 315,
+          "db": -88.8630570776406
+        },
+        {
+          "fc": 400,
+          "db": -92.57862009450379
+        },
+        {
+          "fc": 500,
+          "db": -89.3932195591657
+        },
+        {
+          "fc": 630,
+          "db": -79.1805285267738
+        },
+        {
+          "fc": 800,
+          "db": -56.125903700854394
+        },
+        {
+          "fc": 1000,
+          "db": 11.17509803893916
+        },
+        {
+          "fc": 1250,
+          "db": -59.07580004741446
+        },
+        {
+          "fc": 1600,
+          "db": -86.70304553900198
+        },
+        {
+          "fc": 2000,
+          "db": -100.29882447274268
+        },
+        {
+          "fc": 2500,
+          "db": -110.1147947996222
+        },
+        {
+          "fc": 3150,
+          "db": -118.42055604466384
+        },
+        {
+          "fc": 4000,
+          "db": -125.98605195651147
+        },
+        {
+          "fc": 5000,
+          "db": -132.35390718774931
+        },
+        {
+          "fc": 6300,
+          "db": -138.4456384786352
+        },
+        {
+          "fc": 8000,
+          "db": -144.62515669790974
+        },
+        {
+          "fc": 10000,
+          "db": -150.30555959287582
+        },
+        {
+          "fc": 12500,
+          "db": -156.13495988474705
+        },
+        {
+          "fc": 16000,
+          "db": -163.19702393468992
+        }
+      ],
+      "c": [
+        {
+          "fc": 25,
+          "db": -14.996589931041981
+        },
+        {
+          "fc": 31.5,
+          "db": -0.48326908243779854
+        },
+        {
+          "fc": 40,
+          "db": -0.48326908243779854
+        },
+        {
+          "fc": 50,
+          "db": 18.374259309767897
+        },
+        {
+          "fc": 63,
+          "db": 21.000801344178303
+        },
+        {
+          "fc": 80,
+          "db": -10.474151202015998
+        },
+        {
+          "fc": 100,
+          "db": -20.086745434957862
+        },
+        {
+          "fc": 125,
+          "db": -32.38875640549095
+        },
+        {
+          "fc": 160,
+          "db": -43.027190784807
+        },
+        {
+          "fc": 200,
+          "db": -50.081603307471
+        },
+        {
+          "fc": 250,
+          "db": -57.3569925766611
+        },
+        {
+          "fc": 315,
+          "db": -61.81543844757546
+        },
+        {
+          "fc": 400,
+          "db": -68.72304429434303
+        },
+        {
+          "fc": 500,
+          "db": -74.49855667693038
+        },
+        {
+          "fc": 630,
+          "db": -76.22903531762816
+        },
+        {
+          "fc": 800,
+          "db": -56.121587324199155
+        },
+        {
+          "fc": 1000,
+          "db": 11.175098039470328
+        },
+        {
+          "fc": 1250,
+          "db": -59.073805008480605
+        },
+        {
+          "fc": 1600,
+          "db": -86.50443732143219
+        },
+        {
+          "fc": 2000,
+          "db": -99.09475395927723
+        },
+        {
+          "fc": 2500,
+          "db": -107.13583465458008
+        },
+        {
+          "fc": 3150,
+          "db": -113.5151219089748
+        },
+        {
+          "fc": 4000,
+          "db": -119.419736807192
+        },
+        {
+          "fc": 5000,
+          "db": -124.64697669553254
+        },
+        {
+          "fc": 6300,
+          "db": -129.89866105406088
+        },
+        {
+          "fc": 8000,
+          "db": -135.4729872956427
+        },
+        {
+          "fc": 10000,
+          "db": -140.75793583992416
+        },
+        {
+          "fc": 12500,
+          "db": -146.28650880304968
+        },
+        {
+          "fc": 16000,
+          "db": -153.07251495705574
+        }
+      ]
+    }
+  },
+  "baseline": null,
+  "events": [
+    {
+      "kind": "session-start",
+      "at": {
+        "epochMs": 1790481168366,
+        "monotonicMs": 1790481168366,
+        "iso": "2026-09-26T22:52:48.366-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "detail": "Demo · bass-heavy"
+    },
+    {
+      "kind": "incident-start",
+      "at": {
+        "epochMs": 1790481168367,
+        "monotonicMs": 1790481168367,
+        "iso": "2026-09-26T22:52:48.367-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "detail": "bass"
+    },
+    {
+      "kind": "incident-end",
+      "at": {
+        "epochMs": 1790481169544,
+        "monotonicMs": 1790481169544,
+        "iso": "2026-09-26T22:52:49.544-05:00",
+        "timeZone": "America/Chicago"
+      },
+      "detail": "1.2 s"
+    }
+  ],
+  "sampleCount": 480,
+  "disclaimer": "DecibelLog is not a certified sound level meter and does not claim IEC 61672 Class 1 or Class 2 accuracy. The weighting filters follow the IEC analog prototypes via the bilinear transform and are gain-normalized at 1 kHz, but this phone or browser path is uncalibrated unless you enter your own offset. Use readings comparatively (quiet versus loud in this room), not as a legal certification. Timestamps follow this device clock and are never rewritten. This tool does not transcribe speech, beamform toward a neighbor, or edit evidence audio. LEVELS_ONLY packs contain meters and spectrum, not a recording."
+}

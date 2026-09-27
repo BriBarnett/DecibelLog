@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+  --color-bg: #070908;
+  --color-fg: #e7f0e4;
+  --color-mist: #8d9a90;
+  --color-surface: #121614;
+  --color-surface-2: #1c231e;
+  --color-line: #2a332c;
+  --color-phosphor: #c6f135;
+  --color-alarm: #ff5a36;
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  body {
+    background: var(--color-bg);
+    color: var(--color-fg);
+    font-family: var(--font-sans);
+    min-height: 100dvh;
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  input[type="range"] {
+    accent-color: var(--color-phosphor);
+  }
+}
+
+.nums {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+@keyframes incident-pulse {
+  50% {
+    box-shadow: 0 0 0 0.35rem color-mix(in oklab, var(--color-alarm) 40%, transparent);
+  }
+}
+
+.incident-live {
+  animation: incident-pulse 1.6s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .incident-live {
+    animation: none;
+  }
+}

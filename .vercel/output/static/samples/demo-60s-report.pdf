@@ -1,0 +1,161 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3167 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+48 760 Td
+/F1 14 Tf (DecibelLog 60s demo) Tj
+T*
+/F1 10 Tf () Tj
+T*
+/F1 10 Tf (Incident inc_0wxhqkde) Tj
+T*
+/F1 10 Tf (Session ses_veyebwi5) Tj
+T*
+/F1 10 Tf (bedroom ? bass ? windows closed) Tj
+T*
+/F1 10 Tf (Address: Unit 4) Tj
+T*
+/F1 10 Tf (Name: Sample) Tj
+T*
+/F1 10 Tf (Direction \(perceived, not measured\): adjacent) Tj
+T*
+/F1 10 Tf (Start 2026-09-26T22:52:48.367-05:00 \(America/Chicago\)) Tj
+T*
+/F1 10 Tf (End 2026-09-26T22:52:49.544-05:00) Tj
+T*
+/F1 10 Tf (Source Demo ? bass-heavy @ 48000 Hz) Tj
+T*
+/F1 10 Tf (Calibration offset 0.0 dB) Tj
+T*
+/F1 10 Tf (Clock: Browser clock. DecibelLog cannot read Settings.Global.AUTO_TIME. If this device) Tj
+T*
+/F1 10 Tf (clock is set manually, timestamps follow that clock.) Tj
+T*
+/F1 10 Tf (Install sample) Tj
+T*
+/F1 10 Tf () Tj
+T*
+/F1 10 Tf (Duration 1.2 s) Tj
+T*
+/F1 10 Tf (LAeq -24.8 LCeq -12.9 LC-LA 11.9) Tj
+T*
+/F1 10 Tf (LAmax,F -24.8 LCmax,F -12.9) Tj
+T*
+/F1 10 Tf (LASmax -24.8 LCSmax -12.9) Tj
+T*
+/F1 10 Tf (LAFmin -25.8 LCpeak -8.1) Tj
+T*
+/F1 10 Tf (Clipped meter rows 0) Tj
+T*
+/F1 10 Tf () Tj
+T*
+/F1 10 Tf (1/3-octave Leq \(FFT-binned, low bands limited by bin width\):) Tj
+T*
+/F1 10 Tf (25 Hz A -42.5 C -15.0) Tj
+T*
+/F1 10 Tf (31.5 Hz A -28.0 C -0.5) Tj
+T*
+/F1 10 Tf (40 Hz A -28.0 C -0.5) Tj
+T*
+/F1 10 Tf (50 Hz A -9.1 C 18.4) Tj
+T*
+/F1 10 Tf (63 Hz A -6.5 C 21.0) Tj
+T*
+/F1 10 Tf (80 Hz A -38.0 C -10.5) Tj
+T*
+/F1 10 Tf (100 Hz A -47.6 C -20.1) Tj
+T*
+/F1 10 Tf (125 Hz A -59.9 C -32.4) Tj
+T*
+/F1 10 Tf (160 Hz A -70.5 C -43.0) Tj
+T*
+/F1 10 Tf (200 Hz A -77.5 C -50.1) Tj
+T*
+/F1 10 Tf (250 Hz A -84.8 C -57.4) Tj
+T*
+/F1 10 Tf (315 Hz A -88.9 C -61.8) Tj
+T*
+/F1 10 Tf (400 Hz A -92.6 C -68.7) Tj
+T*
+/F1 10 Tf (500 Hz A -89.4 C -74.5) Tj
+T*
+/F1 10 Tf (630 Hz A -79.2 C -76.2) Tj
+T*
+/F1 10 Tf (800 Hz A -56.1 C -56.1) Tj
+T*
+/F1 10 Tf (1000 Hz A 11.2 C 11.2) Tj
+T*
+/F1 10 Tf (1250 Hz A -59.1 C -59.1) Tj
+T*
+/F1 10 Tf (1600 Hz A -86.7 C -86.5) Tj
+T*
+/F1 10 Tf (2000 Hz A -100.3 C -99.1) Tj
+T*
+/F1 10 Tf (2500 Hz A -110.1 C -107.1) Tj
+T*
+/F1 10 Tf (3150 Hz A -118.4 C -113.5) Tj
+T*
+/F1 10 Tf (4000 Hz A -126.0 C -119.4) Tj
+T*
+/F1 10 Tf (5000 Hz A -132.4 C -124.6) Tj
+T*
+/F1 10 Tf (6300 Hz A -138.4 C -129.9) Tj
+T*
+/F1 10 Tf (8000 Hz A -144.6 C -135.5) Tj
+T*
+/F1 10 Tf (10000 Hz A -150.3 C -140.8) Tj
+T*
+/F1 10 Tf (12500 Hz A -156.1 C -146.3) Tj
+T*
+/F1 10 Tf (16000 Hz A -163.2 C -153.1) Tj
+T*
+/F1 10 Tf () Tj
+T*
+/F1 10 Tf (FOOTER) Tj
+T*
+/F1 10 Tf (DecibelLog is not a certified sound level meter and does not claim IEC 61672 Class 1 or) Tj
+T*
+/F1 10 Tf (Class 2 accuracy. The weighting filters follow the IEC analog prototypes via the) Tj
+T*
+/F1 10 Tf (bilinear transform and are gain-normalized at 1 kHz, but this phone or browser path is) Tj
+T*
+/F1 10 Tf (uncalibrated unless you enter your own offset. Use readings comparatively \(quiet versus) Tj
+T*
+/F1 10 Tf (loud in this room\), not as a legal certification. Timestamps follow this device clock) Tj
+T*
+/F1 10 Tf (and are never rewritten. This tool does not transcribe speech, beamform toward a) Tj
+T*
+/F1 10 Tf (neighbor, or edit evidence audio. LEVELS_ONLY packs contain meters and spectrum, not a) Tj
+T*
+/F1 10 Tf (recording.) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000003460 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+3530
+%%EOF
